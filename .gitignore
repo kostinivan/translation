@@ -276,5 +276,5 @@ TSWLatexianTemp*
 *.lpz
 
 # my adding
-./vendor/bundles/*
+/vendor
 *.lock
